@@ -31,10 +31,10 @@ Using the data.sql at the end, the endpoints will produce the following outputs.
 
 To set up this project you will need to
 
-* [ ] Create a forked copy of this project
-* [ ] Clone your OWN version of the repository (Not Lambda's by mistake!)
-* [ ] Create a new branch: git checkout -b <firstName-lastName>.
-* [ ] Push commits: git push -u origin <firstName-lastName>
+* [x] Create a forked copy of this project
+* [x] Clone your OWN version of the repository (Not Lambda's by mistake!)
+* [x] Create a new branch: git checkout -b <firstName-lastName>.
+* [x] Push commits: git push -u origin <firstName-lastName>
 * [ ] Using the cloned repository as your working directory, create an initial application using the IntelliJ GUI interface remembering to implement the project on your newly created <firstName-lastName> branch, committing changes regularly
 * [ ] Push commits: git push origin <firstName-lastName>
 
